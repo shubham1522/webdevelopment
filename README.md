@@ -1,2 +1,2 @@
-# webdevelopment
-project of html css and javascript
+# webdevelopment(Netflix)
+project of html & css 
